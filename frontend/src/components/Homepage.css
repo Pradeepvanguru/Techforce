@@ -1,0 +1,50 @@
+/* Add this to a custom CSS file for extra styling */
+
+.homepage-container {
+    padding: 20px;
+}
+
+/* Styling for the cards */
+.card {
+    transition: all 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+/* Add hover effect for card zoom */
+.hover-zoom:hover {
+    transform: scale(1.03);
+}
+
+/* Centered text styling for better readability */
+.text-center {
+    text-align: center;
+}
+
+/* Custom button styles */
+.btn-lg {
+    padding: 10px 20px;
+    font-size: 18px;
+}
+
+/* Add box-shadow for a subtle elevation effect */
+.shadow-lg {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Font and spacing improvements */
+.display-4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.lead {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.7;
+}
+
+/* Button hover effect */
+.btn:hover {
+    transform: translateY(-2px);
+}

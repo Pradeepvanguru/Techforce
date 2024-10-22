@@ -1,0 +1,27 @@
+.data-tab {
+    background-color: #f8f9fa; /* Light background for contrast */
+    border: 1px solid #dee2e6; /* Light border for definition */
+    border-radius: 8px; /* Rounded corners */
+}
+
+.data-tab h4 {
+    margin-bottom: 1rem; /* Space below the heading */
+}
+
+.data-tab .form-group {
+    margin-bottom: 1rem; /* Space below the form group */
+}
+
+.data-tab .form-control {
+    height: calc(2.25rem + 2px); /* Increased height for the input */
+    font-size: 1rem; /* Font size for readability */
+}
+
+.data-tab .btn {
+    font-size: 1rem; /* Font size for the button */
+    padding: 0.5rem; /* Padding for a better button appearance */
+}
+
+.text-center {
+    text-align: center; /* Center text for the message */
+}
